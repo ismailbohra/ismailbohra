@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ismail Bohra</h1>
-<h3 align="center">A passionate Android Developer and A Contributor.</h3>
+<h3 align="center">A passionate FullStack Developer and A Contributor.</h3>
 <h3 align="center">Google Developer Student Club Android Core Team Member 2022-23</h3>
  
 - 🔭 I’m currently working on **Open Source, Offical College Android APP**
