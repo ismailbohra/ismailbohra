@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ismail Bohra</h1>
 <h3 align="center">A passionate FullStack Developer and A Contributor.</h3>
-<h3 align="center">Google Developer Student Club Android Core Team Member 2022-23</h3>
+<h3 align="center">Google Developer Student Club Core Team Member 2022-23</h3>
  
-- 🔭 I’m currently working on **Open Source, Offical College Android APP**
+- 🔭 I’m currently working on **Open Source, Offical College Mobile APP**
 
-- 🌱 I’m currently learning **JetPack Compose, MERN.**
+- 🌱 I’m currently learning **MERN, GEN AI, OPEN CV**
 
-- 🏫 I am currently in my **second year.**
+- 🏫 I am currently in my **FINAL year.**
 
 - ⚡ Fun fact **I love to do Spiritual activities.**
 
@@ -111,5 +111,3 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailbohra&theme=bear&layout=compact" alt="JayB's github top languages" />
   -->
 </p>
-  <br>
-  <br>
